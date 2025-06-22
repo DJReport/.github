@@ -1,1 +1,1 @@
-![DjReport Logo](https://github.com/DJReport/Graphics/blob/main/banners/djr.png?raw=true)
+![DjReport Logo](https://github.com/DJReport/Graphics/blob/main/banner/compressed_djr.png?raw=true)
